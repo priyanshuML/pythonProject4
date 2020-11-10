@@ -7,4 +7,5 @@ def abcd():
 def abcde():
     print("abcde")
     print("nowe")
+    print("snajsa")
 
