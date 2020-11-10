@@ -1,3 +1,4 @@
 print("dshjsd")
-def abc():
-    print("abc")
+def abcd():
+    print("abcd")
+    print("now")
