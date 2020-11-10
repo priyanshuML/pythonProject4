@@ -9,7 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print("githubchange")
     print("pycharmchange")
-    print("pycharm223444")
+    print("pycharm223")
+    print("git2hub")
 
 
 # Press the green button in the gutter to run the script.
