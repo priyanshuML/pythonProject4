@@ -10,6 +10,7 @@ def print_hi(name):
     print("githubchange")
     print("pycharmchange")
     print("pycharm223")
+    print("git2hub")
 
 
 # Press the green button in the gutter to run the script.
